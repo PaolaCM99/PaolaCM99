@@ -2,16 +2,16 @@
 ✨Soy Paola Castro ✨  
 Desarrolladora front end!  
 Vivo en bogotá, Colombia.
-Empleo lenguajes como Javascript, CSS, y HTML.  
-Los prototipos de alta se han realizado con figma.
+Lenguajes: Javascript, CSS, y HTML.  
+Herramientas: Figma, firebase, node.js, chart.js.
 
-Estos son los proyectos que he desarrollando con < Laboratoria > 
+Estos son los proyectos que he desarrollando con < Laboratoria >:
 
   
 * Card validation.
 * Data lovers.
 * Social network.
-* MdLinks. (actualmente trabajando)
+* MdLinks(actualmente trabajando).
 <!--
 **PaolaCM99/PaolaCM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Laboratoria](https://media.istockphoto.com/photos/program-code-javascript-php-html-css-of-site-web-development-source-picture-id1202250586?s=612x612)
