@@ -1,8 +1,10 @@
 ### Holaaa! 👋
 ✨Soy Paola Castro ✨  
 Desarrolladora front end!  
-Vivo en bogotá, Colombia.
+Vivo en bogotá, Colombia.  
+
 Lenguajes: Javascript, CSS, y HTML.  
+
 Herramientas: Figma, firebase, node.js, chart.js.
 
 Estos son los proyectos que he desarrollando con < Laboratoria >:
