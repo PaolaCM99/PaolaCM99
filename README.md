@@ -17,7 +17,8 @@ Estos son los proyectos que he desarrollando con **< Laboratoria >**:
 
 
 
-<a href="https://www.linkedin.com/in/paolacm99"><img src="https://img.shields.io/badge/Linkedin-D14836.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/paolacm99"> <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--   <img src="https://img.shields.io/badge/Linkedin-D14836.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
 
 <!--
 **PaolaCM99/PaolaCM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
