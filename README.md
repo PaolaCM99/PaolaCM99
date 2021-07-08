@@ -13,7 +13,12 @@ Estos son los proyectos que he desarrollando con **< Laboratoria >**:
 * Card validation.
 * Data lovers.
 * Social network.
-* MdLinks. 
+* MdLinks. .
+
+
+
+<a href="https://www.linkedin.com/in/paolacm99"><img src="https://img.shields.io/badge/Linkedin-D14836.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 <!--
 **PaolaCM99/PaolaCM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Laboratoria](https://media.istockphoto.com/photos/program-code-javascript-php-html-css-of-site-web-development-source-picture-id1202250586?s=612x612)
