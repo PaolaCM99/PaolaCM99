@@ -1,4 +1,5 @@
-## Holaaa! 👋
+# 🍄
+## Holaaa!
 ✨Soy **Paola Castro** ✨  
 Desarrolladora **front end**!   
 Vivo en bogotá, Colombia.  
