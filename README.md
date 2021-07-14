@@ -1,4 +1,4 @@
-# 🍄
+# ☁  ☁ ☁ ⛅ ☁ ☁ ☁
 ## Holaaa!
 ✨Soy **Paola Castro** ✨  
 Desarrolladora **front end**!   
@@ -8,7 +8,7 @@ Vivo en bogotá, Colombia.
 
 **Herramientas**: Figma, firebase, node.js, chart.js.
 
-Estos son los proyectos que he desarrollando con **< Laboratoria >**:
+Estos son los proyectos que he desarrollando con **Laboratoria**:
 
   
 * Card validation.
