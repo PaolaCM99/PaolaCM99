@@ -2,8 +2,7 @@
 
  Holaaa!🌺
 ### ✨Soy **Paola Castro** ✨  
-Desarrolladora **front end**!   
-Vivo en bogotá, Colombia.  
+Desarrolladora **front end**!  Me gusta el diseño, el arte y los colores!, soy de Bogotá, Colombia, actualmente me encuentro estudiando con Laboratoria.
 
 #### Lenguajes
 Javascript, CSS, y HTML.  
@@ -24,7 +23,8 @@ Javascript, CSS, y HTML.
 * Lab notes(actualmente).
 
 
-####vEncuentrame en :
+#### Encuentrame en:  
+
 <a href="https://www.linkedin.com/in/paolacm99"> <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--   <img src="https://img.shields.io/badge/Linkedin-D14836.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
 
