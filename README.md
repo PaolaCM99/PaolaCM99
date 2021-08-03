@@ -5,11 +5,9 @@
 Desarrolladora **front end**!  Me gusta el diseño, el arte y los colores!, soy de Bogotá, Colombia, actualmente me encuentro estudiando con Laboratoria.
 
 #### Lenguajes
-<img src="https://img.shields.io/badge/-JavaScript-yellow"/>
+<img src="https://img.shields.io/badge/-HTML-orange"/> <img src="https://img.shields.io/badge/-JavaScript-yellow"/> <img src="https://img.shields.io/badge/-CSS-informational"/>
 
-<img src="https://img.shields.io/badge/-CSS-informational"/>
 
-<img src="https://img.shields.io/badge/-HTML-orange"/>
 
  
 
