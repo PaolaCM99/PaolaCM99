@@ -1,16 +1,17 @@
 
-# Holaaa!🌺
-✨Soy **Paola Castro** ✨  
+
+ Holaaa!🌺
+### ✨Soy **Paola Castro** ✨  
 Desarrolladora **front end**!   
 Vivo en bogotá, Colombia.  
 
-## Lenguajes
+### Lenguajes
 Javascript, CSS, y HTML.  
 
-## Herramientas  
+### Herramientas  
 Figma, firebase, node.js, chart.js.
 
-## Proyectos con laboratoria
+### Proyectos con laboratoria
  
 * Card validation.
 * Data lovers.
