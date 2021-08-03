@@ -8,8 +8,12 @@ Vivo en bogotá, Colombia.
 ### Lenguajes
 Javascript, CSS, y HTML.  
 
-### Herramientas  
-Figma, firebase, node.js, chart.js.
+### Herramientas y tecnologias  
+*  Figma
+*  firebase 
+*  node.js
+*  chart.js.
+*  React
 
 ### Proyectos con laboratoria
  
