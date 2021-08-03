@@ -5,17 +5,17 @@
 Desarrolladora **front end**!   
 Vivo en bogotá, Colombia.  
 
-### Lenguajes
+#### Lenguajes
 Javascript, CSS, y HTML.  
 
-### Herramientas y tecnologias  
+#### Herramientas y tecnologias  
 *  Figma
 *  firebase 
 *  node.js
 *  chart.js.
 *  React
 
-### Proyectos con laboratoria
+#### Proyectos con laboratoria
  
 * Card validation.
 * Data lovers.
@@ -24,7 +24,7 @@ Javascript, CSS, y HTML.
 * Lab notes(actualmente).
 
 
-
+####vEncuentrame en :
 <a href="https://www.linkedin.com/in/paolacm99"> <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--   <img src="https://img.shields.io/badge/Linkedin-D14836.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
 
