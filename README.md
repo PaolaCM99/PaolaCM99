@@ -4,17 +4,19 @@
 Desarrolladora **front end**!   
 Vivo en bogotá, Colombia.  
 
-**Lenguajes**: Javascript, CSS, y HTML.  
+## Lenguajes
+Javascript, CSS, y HTML.  
 
-**Herramientas**: Figma, firebase, node.js, chart.js.
+## Herramientas  
+Figma, firebase, node.js, chart.js.
 
-Estos son los proyectos que he desarrollando con **Laboratoria**:
-
-  
+## Proyectos con laboratoria
+ 
 * Card validation.
 * Data lovers.
 * Social network.
-* MdLinks. .
+* MdLinks.
+* Lab notes(actualmente).
 
 
 
