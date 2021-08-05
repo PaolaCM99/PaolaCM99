@@ -4,19 +4,19 @@
 ### ✨Soy **Paola Castro** ✨  
 Desarrolladora **front end**!  Me gusta el diseño, el arte y los colores!, soy de Bogotá, Colombia, actualmente me encuentro estudiando con Laboratoria.
 
-#### Lenguajes
+### Lenguajes
 <img src="https://img.shields.io/badge/html5-fa9c05.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-ffe100.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/css3-0077B5.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
 
 
+### Herramientas y tecnologias  
+<img src="https://img.shields.io/badge/figma-080807.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white"/>  
 
- 
-
-#### Herramientas y tecnologias  
-<img src="https://img.shields.io/badge/figma-080807.svg?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=Chart.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=Chart.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 
-#### Proyectos con laboratoria
+### Proyectos con laboratoria
  
 * Card validation.
 * Data lovers.
@@ -25,7 +25,7 @@ Desarrolladora **front end**!  Me gusta el diseño, el arte y los colores!, soy 
 * Lab notes(actualmente).
 
 
-#### Encuentrame en:  
+### Encuentrame en:  
 
 <a href="https://www.linkedin.com/in/paolacm99"> <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!--   <img src="https://img.shields.io/badge/Linkedin-D14836.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a> -->
