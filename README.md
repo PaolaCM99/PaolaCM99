@@ -9,12 +9,9 @@ Desarrolladora **front end**!  Me gusta el diseño, el arte y los colores!, soy 
 
 
 ### Herramientas y tecnologias  
-<img src="https://img.shields.io/badge/figma-080807.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white"/>  
-
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=Chart.js&logoColor=white"/>  
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/figma-080807.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
 
 ### Proyectos con laboratoria
  
