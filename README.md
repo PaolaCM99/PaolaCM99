@@ -20,7 +20,7 @@ Soy de Bogotá, Colombia, actualmente me encuentro estudiando con Laboratoria.
 * Data lovers.
 * Social network.
 * MdLinks.
-* Lab notes(actualmente).
+* Lab notes.
 
 
 ### Encuentrame en:  
