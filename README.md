@@ -3,7 +3,8 @@
  Holaaa!🌺
 ### ✨Soy **Paola Castro** ✨  
 Desarrolladora **front end**!  Me gusta el diseño, el arte y la tecnologia!,  
-Soy de Bogotá, Colombia, actualmente me encuentro estudiando con Laboratoria.
+Soy de Bogotá, Colombia, actualmente me encuentro trabajando con IATECH S.A.S.
+Estudie con Laboratoria un bootcamp para mujeres que quieran entrar en el mundo de la programacion, crecer como personas y profesionales. 
 
 ### Lenguajes
 <img src="https://img.shields.io/badge/html5-fa9c05.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-ffe100.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/css3-0077B5.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
