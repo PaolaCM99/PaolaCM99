@@ -7,7 +7,7 @@ Soy de Bogotá, Colombia, actualmente me encuentro trabajando con IATECH/MDY  S.
 Estudie con Laboratoria un bootcamp para mujeres que quieran entrar en el mundo de la programación, crecer como personas y profesionales.  
 
 ### Lenguajes
-<img src="https://img.shields.io/badge/html5-fa9c05.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-ffe100.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/css3-0077B5.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/angular-080807.svg?style=for-the-badge&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/c++-080807.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-fa9c05.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-ffe100.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/css3-0077B5.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/angular-080807.svg?style=for-the-badge&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/C++-080807.svg?style=for-the-badge&logo=C++&logoColor=white"/>
 
 
 ### Herramientas y tecnologias  
