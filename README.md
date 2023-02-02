@@ -3,18 +3,17 @@
  Holaaa!🌺
 ### ✨Soy **Paola Castro** ✨  
 Desarrolladora **front end**!  Me gusta el diseño, el arte y la tecnologia!,  
-Soy de Bogotá, Colombia, actualmente me encuentro trabajando con IATECH S.A.S.
-Estudie con Laboratoria un bootcamp para mujeres que quieran entrar en el mundo de la programacion, crecer como personas y profesionales. 
+Soy de Bogotá, Colombia, actualmente me encuentro trabajando con IATECH/MDY  S.A.S.
+Estudie con Laboratoria un bootcamp para mujeres que quieran entrar en el mundo de la programación, crecer como personas y profesionales.  
 
 ### Lenguajes
-<img src="https://img.shields.io/badge/html5-fa9c05.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-ffe100.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/css3-0077B5.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-fa9c05.svg?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-ffe100.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/css3-0077B5.svg?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/angular-080807.svg?style=for-the-badge&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/c++-080807.svg?style=for-the-badge&logo=C++&logoColor=white"/>
 
 
 ### Herramientas y tecnologias  
  <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=Chart.js&logoColor=white"/>  
-<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/figma-080807.svg?style=for-the-badge&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/angular-db1432.svg?style=for-the-badge&logo=Angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/flutter-0ea7ed.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/figma-080807.svg?style=for-the-badge&logo=Figma&logoColor=white"/> 
 
 ### Proyectos con laboratoria
  
