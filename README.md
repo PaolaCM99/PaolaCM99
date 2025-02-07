@@ -3,7 +3,7 @@
  Holaaa!🌺
 ### ✨Soy **Paola Castro** ✨  
 Desarrolladora **front end**!  Me gusta el diseño, el arte y la tecnologia!,  
-Soy de Bogotá, Colombia, actualmente me encuentro trabajando con IATECH/MDY  S.A.S.
+Soy de Bogotá, Colombia.
 Estudié con Laboratoria un bootcamp que ha aportado mucho a mi conocimiento, y actualmente continuo mi educación enfocada en la programación en la Universidad Distrital Francisco José de Caldas.  
 
 ### Lenguajes
